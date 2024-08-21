@@ -7,7 +7,7 @@ Ini adalah repository contoh sederhana pembuatan CRUD dengan menggunakan bahasa 
 1. Clone atau download repository ini. Jika kamu ingin meng-download kamu bisa klik tombol kode warna hijau kemudian klik download zip atau jika ingin meng-clone bisa jalankan perintah ini.
 
 ```
-git clone https://github.com/raihan-muhammad/simple-crud-php.git
+https://github.com/muhammadrizky1126/crud_php.git
 ```
 
 2. Buka phpmyadmin, buat database baru dengan nama **db_crud**

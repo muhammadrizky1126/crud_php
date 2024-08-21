@@ -18,7 +18,7 @@
 
   <section class="row">
     <div class="col-md-8 offset-md-2 align-self-center"> 
-      <h1 class="text-center">Daftar Siswa</h1>
+      <h1 class="text-center">Daftar Pinjaman Siswa</h1>
       <a href="tambah.php" class="btn btn-primary mb-2">Tambah</a>
       <table class="table table-striped table-bordered">
         <thead>
